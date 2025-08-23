@@ -1,8 +1,6 @@
 A machine learning project that automatically screens resumes by extracting text, analyzing skills, and predicting candidate-job match scores. Includes NLP preprocessing, feature extraction (TF‑IDF, word embeddings), classification/regression modeling, evaluation metrics, and an optional Streamlit app for interactive resume uploads. Designed for recruiters, students, and portfolio demonstration.
 
-🚀 Features
-
-Resume text extraction (PDF/DOCX parsing)
+🚀Features
 
 NLP preprocessing (cleaning, tokenization, stopword removal)
 
